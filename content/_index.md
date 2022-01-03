@@ -1,6 +1,6 @@
 ---
 title: I.O.O.F. Lodge No. 8
-featured_image: "/images/foe.png"
+featured_image: "/images/1200px-independent_order_of_odd_fellows_-_links_and_eye.jpg"
 description: The Three Links in Kingman, Arizona
 
 ---
