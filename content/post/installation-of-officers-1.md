@@ -7,4 +7,4 @@ tags = ["scene"]
 title = "Installation of Officers"
 
 +++
-The lodge will be holding its installation of officers ceremony January 8th, 2022.  Dress is formal.
+The lodge will be holding its installation of officers ceremony January 8th, 2022 at 2:30 p.m.  Dress is formal.
