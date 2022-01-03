@@ -2,7 +2,6 @@
 date = 2022-01-03T04:17:42Z
 description = "Taking a long view of the change in year."
 disable_share = false
-draft = true
 featured_image = ""
 tags = ["scene"]
 title = "New Year"
