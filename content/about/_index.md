@@ -1,7 +1,7 @@
 ---
 title: About
 description: ''
-featured_image: "/images/foe.png"
+featured_image: "/images/1200px-independent_order_of_odd_fellows_-_links_and_eye.jpg"
 
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
