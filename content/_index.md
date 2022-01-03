@@ -1,7 +1,9 @@
 ---
 title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+featured_image: "/images/1200px-independent_order_of_odd_fellows_-_links_and_eye.jpg"
+description: The Three Links
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to Independent Order of Odd Fellows in Kingman, Arizona.   
+
+We are an organization having for its object the elevation of mankind, morally, intellectually, socially, and physically, recognizing man's individual helplessness and great need of co-operation in all the affairs of life. Our order requires its members to aid, assist, and protect each other, to visit the sick, relieve the distressed, bury the dead, and protect the widow and orphan. It teaches the fatherhood of God and the brotherhood of man; it strives to break down the artificial barriers that separate man from his fellowman, and places all upon an equality, as members of one great family.
