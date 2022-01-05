@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
+baseURL: "https://ioofkingman.org/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Independent Order of Odd Fellows"
 
 module:
   imports:
