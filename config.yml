@@ -1,11 +1,10 @@
-baseURL: "https://ioofkingman.org/"
-languageCode: "en-us"
-title: "Independent Order of Odd Fellows"
-
+---
+baseURL: https://ioofkingman.org/
+languageCode: en-us
+title: Independent Order of Odd Fellows
 module:
   imports:
-    - path: github.com/theNewDynamic/gohugo-theme-ananke
-
+  - path: github.com/theNewDynamic/gohugo-theme-ananke
 DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 9
@@ -20,7 +19,7 @@ params:
   site_logo: ''
   description: The last theme you'll ever need. Maybe.
   facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
+  twitter: https://twitter.com/GoHugoIO
   instagram: ''
   youtube: ''
   github: ''
@@ -31,5 +30,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: /images/1200px-independent_order_of_odd_fellows_-_links_and_eye.jpg
+  featured_image: "/images/1200px-independent_order_of_odd_fellows_-_links_and_eye.jpg"
   recent_posts_number: 2
