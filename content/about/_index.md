@@ -1,7 +1,7 @@
 ---
 title: About
 description: ''
-featured_image: "/images/1200px-independent_order_of_odd_fellows_-_links_and_eye.jpg"
+featured_image: "/images/odd-fellows-symbols_azt7mt.webp"
 
 ---
 {{< figure src="/images/1egbg1k_4qur_l.jpg" title="Original IOOF Building" >}}
