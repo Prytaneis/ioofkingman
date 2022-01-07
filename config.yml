@@ -15,10 +15,6 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
-  ananke_socials:
-  - name: SGL
-    url: https://odd-fellows.org/
-    label: Sovreign Grand Lodge
   favicon: ''
   site_logo: ''
   description: Independent Order of Odd Fellows in Kingman, AZ.
