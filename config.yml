@@ -16,7 +16,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: ''
-  site_logo: ''
+  site_logo: '/images/logo_color_oddfellows-rgb.png'
   description: Independent Order of Odd Fellows in Kingman, AZ.
   facebook: ''
   twitter: ''
