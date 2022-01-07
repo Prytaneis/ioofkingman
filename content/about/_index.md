@@ -10,4 +10,4 @@ Kingman Odd Fellows Lodge No. 8 was chartered in 2019 by the Grand Lodge of Ariz
 
 Special thanks to our brothers at Kingman Masonic Lodge No. 22 for hosting our lodge.
 
-{{< figure src="/images/3683488_orig.png" title="Original IOOF Building" >}}
+{{< figure src="/images/3683488_orig.png" title="Motto" >}}
