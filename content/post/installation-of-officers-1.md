@@ -7,4 +7,4 @@ tags = ["scene"]
 title = "Installation of Officers"
 
 +++
-The lodge will be holding its installation of officers ceremony January 8th, 2022 at 2:30 p.m. at 212 N. 4th St. Kingman, AZ 86401.  Dress is formal.
+The lodge will be holding its annual installation of officers ceremony January 8th, 2022 at 1:00 p.m. at 212 N. 4th St. Kingman, AZ 86401.  Dress is formal.
